@@ -8,6 +8,6 @@
     <title>Dev</title>
 </head>
 <body>
-    Hello from dev !
+    Hello from dev branch !
 </body>
 </html>
