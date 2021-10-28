@@ -11,6 +11,7 @@
     <h1>Test de titre</h1>
     Hello from dev branch !
     <p>Lorem ipsum blabla </p>
+    <p>Lorem ipsum ffijreo</p>
 </body>
 </html>
 
