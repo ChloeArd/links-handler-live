@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport"
@@ -8,6 +8,15 @@
     <title>Dev</title>
 </head>
 <body>
-    Hello from dev branch ! fdgtrgtrrhtrmmm
+    <h1>Test de titre</h1>
+    Hello from dev branch !
 </body>
 </html>
+
+<!--
+utilisation dossier public sur le serveur
+Databases + phpStorm
+composer + npm sur server
+
+Exemples de déploiements (fichier, bdd, exclusion , vendore, node modules, etc...)
+-->
