@@ -10,6 +10,7 @@
 <body>
     <h1>Test de titre</h1>
     Hello from dev branch !
+    <p>Lorem ipsum blabla </p>
 </body>
 </html>
 
